@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mudracircle-website/static/css/main.fab9fac6.chunk.css",
+    "main.js": "/mudracircle-website/static/js/main.0000f9a8.chunk.js",
+    "main.js.map": "/mudracircle-website/static/js/main.0000f9a8.chunk.js.map",
+    "runtime-main.js": "/mudracircle-website/static/js/runtime-main.9b136528.js",
+    "runtime-main.js.map": "/mudracircle-website/static/js/runtime-main.9b136528.js.map",
+    "static/css/2.d44d9e5f.chunk.css": "/mudracircle-website/static/css/2.d44d9e5f.chunk.css",
+    "static/js/2.3317c671.chunk.js": "/mudracircle-website/static/js/2.3317c671.chunk.js",
+    "static/js/2.3317c671.chunk.js.map": "/mudracircle-website/static/js/2.3317c671.chunk.js.map",
+    "index.html": "/mudracircle-website/index.html",
+    "static/css/2.d44d9e5f.chunk.css.map": "/mudracircle-website/static/css/2.d44d9e5f.chunk.css.map",
+    "static/css/main.fab9fac6.chunk.css.map": "/mudracircle-website/static/css/main.fab9fac6.chunk.css.map",
+    "static/js/2.3317c671.chunk.js.LICENSE.txt": "/mudracircle-website/static/js/2.3317c671.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/mudracircle-website/static/media/zurich_bt_roman-webfont.6c2f5545.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b136528.js",
+    "static/css/2.d44d9e5f.chunk.css",
+    "static/js/2.3317c671.chunk.js",
+    "static/css/main.fab9fac6.chunk.css",
+    "static/js/main.0000f9a8.chunk.js"
+  ]
+}
